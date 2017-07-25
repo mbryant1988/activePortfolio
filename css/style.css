@@ -1,0 +1,9 @@
+body {
+  background: no-repeat center center fixed;
+  background-color: black;
+}
+
+.navbar-default {
+  background-color: black;
+  border-color: purple;
+}
