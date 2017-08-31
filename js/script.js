@@ -26,7 +26,7 @@ $(document).ready(function() {
     rules: {
       text: "required",
       name: "required",
-      email: {
+      _replyto: {
         required: true,
         email: true
       }
